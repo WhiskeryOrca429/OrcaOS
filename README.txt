@@ -3,3 +3,6 @@ Source Website:
 Youtube:
 Dependencies: None At The Moment
 This Project was created by: WhiskeryOrca429
+
+added cd and ls to the new basic file system
+
